@@ -7,3 +7,5 @@ Bring developers from the Financial Services industry together to demonstrate ho
 
 ![image](https://user-images.githubusercontent.com/4500512/212386856-50328c9e-3699-4aec-8c68-6d889e043c05.png)
 
+## Dates and Location
+The date of the event is April 3rd and 4th. The event will be hybrid. The in-person venue will be in NYC at the EY Headquarter in 1 Manhattan West during World Autism Awareness Month (April).
