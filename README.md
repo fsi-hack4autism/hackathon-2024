@@ -20,7 +20,7 @@ This use case is planned to assist the BCBA during a session with the parent in 
 * Post-session summarization
 Targeted for H1
 
-#### Use case 3: Patient co-pilot
+#### Use case 2: Patient co-pilot
 This use case is planned to provide a continuous assessment, summarization, and re-plan
 * Use Generative AI to analyze past records, group and cluster students based on progress, performance, etc. and suggest a therapy plan for them
 
