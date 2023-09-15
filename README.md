@@ -11,7 +11,8 @@ Bring developers from the Financial Services industry together to demonstrate ho
 The date of the event is April 3rd and 4th. The event will be hybrid. The in-person venue will be in NYC at the EY Headquarter in 1 Manhattan West during World Autism Awareness Month (April).
 
 ## Proposed Use cases
-### Use case 1: In-session co-pilot
+### Theme 2: Ideas that are more innovative an technology focused
+#### Use case 1: In-session co-pilot
 This use case is planned to assist the BCBA during a session with the parent in one or more of the following ways:
 * Multi-sensory data capture
   * Smartphone app used by BCBA, video camera, microphone, etc.
@@ -25,9 +26,9 @@ This use case is planned to provide a continuous assessment, summarization, and 
 * Use Generative AI to analyze past records, group and cluster students based on progress, performance, etc. and suggest a therapy plan for them
 
 #### Use case 3: Client on-boarding co-pilot
-### Theme 2: Ideas that are more innovative an technology focused
-#### Use case 3: Halo lens
-Skill based training, but adopting Generative AI along with it
+### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
+#### Use case 4: Hololens
+Skill based training, adopting Generative AI along with it
 
-#### Use case 4: Metaverse
+#### Use case 5: Metaverse
 Train social interaction through gaming and add Generative AI along with it
