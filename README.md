@@ -14,7 +14,7 @@ The date of the event is April 3rd and 4th. The event will be hybrid. The in-per
 
 ### Theme 1: Ideas that are focused on improving therapy using copilot
 
-#### Use case 1: In-session co-pilot
+#### Use case 1: Therapy session co-pilot
 This use case is planned to assist the BCBA during a session with the parent in one or more of the following ways:
 * Multi-sensory data capture
   * Smartphone app used by BCBA, video camera, microphone, etc.
@@ -29,6 +29,17 @@ This use case is planned to provide a continuous assessment, summarization, and 
 * Stakeholders: BCBA
 
 #### Use case 3: Client on-boarding co-pilot
+This use case is planned to help a BCBA onboard a new patient quickly
+* Use ML and Generative AI to analyze past records, highlight previous therapy plans and outcomes, next steps, etc.
+* Stakeholders: BCBA, Parents
+
+#### Use case 4: Friendly neighborhoos Mobile Networking App
+This mobile app will help connect parents and patients with other helpful members of the community - other parents, BCBAs, organizations, etc.
+* Allow patients and parents to fill in profile
+* Prompt the right next actions for the parents and connect them with others in same situation
+* Provide helpful information from credible sources
+* Use ChatGPT to allow parents and patients ask open ended questions and have a conversation
+* Stakeholders: Parents, patients, non-profit organizations
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
 
