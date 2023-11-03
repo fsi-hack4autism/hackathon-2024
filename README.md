@@ -23,7 +23,7 @@ This use case is planned to assist the BCBA during a session with the parent in 
 * Post-session summarization
 * Stakeholders: BCBA, parents/clients
 
-### Ideas
+##### Ideas
 Use project Florance for cognitive services and vision https://portal.vision.cognitive.azure.com/gallery/featured
 
 #### Use case 2: Client co-pilot
