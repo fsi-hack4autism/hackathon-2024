@@ -24,7 +24,7 @@ This use case is planned to assist the BCBA during a session with the parent in 
 * Stakeholders: BCBA, parents/clients
 
 ##### Ideas
-Use project Florance for cognitive services and vision https://portal.vision.cognitive.azure.com/gallery/featured
+[Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
 
 #### Use case 2: Client co-pilot
 This use case is planned to provide a continuous assessment, summarization, and re-plan
@@ -36,7 +36,7 @@ This use case is planned to help a BCBA onboard a new patient quickly
 * Use ML and Generative AI to analyze past records, highlight previous therapy plans and outcomes, next steps, etc.
 * Stakeholders: BCBA, Parents
 
-#### Use case 4: Friendly neighborhoos Mobile Networking App
+#### Use case 4: Friendly Neighborhoods Mobile Networking App
 This mobile app will help connect parents and patients with other helpful members of the community - other parents, BCBAs, organizations, etc.
 * Allow patients and parents to fill in profile
 * Prompt the right next actions for the parents and connect them with others in same situation
