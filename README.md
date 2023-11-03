@@ -23,6 +23,9 @@ This use case is planned to assist the BCBA during a session with the parent in 
 * Post-session summarization
 * Stakeholders: BCBA, parents/clients
 
+### Ideas
+Use project Florance for cognitive services and vision https://portal.vision.cognitive.azure.com/gallery/featured
+
 #### Use case 2: Client co-pilot
 This use case is planned to provide a continuous assessment, summarization, and re-plan
 * Use Generative AI to analyze past records, group and cluster students based on progress, performance, etc. and suggest a therapy plan for them
