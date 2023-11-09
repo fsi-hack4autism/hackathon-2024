@@ -23,6 +23,14 @@ This use case is planned to assist the BCBA during a session with the parent in 
 * Post-session summarization
 * Stakeholders: BCBA, parents/clients
 
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
+
 ##### Ideas
 [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
 
@@ -31,10 +39,26 @@ This use case is planned to provide a continuous assessment, summarization, and 
 * Use Generative AI to analyze past records, group and cluster students based on progress, performance, etc. and suggest a therapy plan for them
 * Stakeholders: BCBA
 
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
+
 #### Use case 3: Client on-boarding co-pilot
 This use case is planned to help a BCBA onboard a new patient quickly
 * Use ML and Generative AI to analyze past records, highlight previous therapy plans and outcomes, next steps, etc.
 * Stakeholders: BCBA, Parents
+
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
 
 #### Use case 4: Friendly Neighborhoods Mobile Networking App
 This mobile app will help connect parents and patients with other helpful members of the community - other parents, BCBAs, organizations, etc.
@@ -44,10 +68,34 @@ This mobile app will help connect parents and patients with other helpful member
 * Use ChatGPT to allow parents and patients ask open ended questions and have a conversation
 * Stakeholders: Parents, patients, non-profit organizations
 
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
+
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
 
 #### Use case 4: Hololens
 Skill based training, adopting Generative AI along with it
 
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
+
 #### Use case 5: Metaverse
 Train social interaction through gaming and add Generative AI along with it
+
+##### Leadership Team:
+| Role | Name | Company |
+|------|------|---------|
+||||
+||||
+||||
+||||
