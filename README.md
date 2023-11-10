@@ -28,8 +28,7 @@ The session will comprise of:
   * Summarize and generate notes - free form based on observations across all modes
   * Summarize progress on specific markers
 #### Stakeholders
-* Key stakeholder: RBT
-* Other stakeholders: BCBA, parents, children
+* RBT, BCBA, parent, child
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -37,6 +36,8 @@ The session will comprise of:
 ||Subject Matter Expert|RBT/BCBA|
 ||Tech Lead|Microsoft|
 ||Tech Lead|EY|
+##### Ideas
+[Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
 #### Time to Market: 12-18 months
 
 ### Use case 2: Program development design co-pilot
@@ -48,8 +49,7 @@ A BCBA (Board Certified Behavior Analyst) designs a program specifically for eac
 * Based on past successes of children in the cohort, the co-pilot will suggest a recalibrated treatment and markers (if needed) to the BCBA
 * It can generate a progress summary at any given point of time
 #### Stakeholders
-* Key stakeholder: BCBA
-* Other stakeholders: RBTs, parents, children
+* RBT, BCBA, parent, child
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -73,8 +73,7 @@ Typically, a BCBA gets limited amount of time to onboard a new patient and this 
 * It will allow tracking documents and provide a platform for storing consents, authorizations, etc.
 * It can generate a summarization of the new client for the BCBA to review
 #### Stakeholders
-* Key stakeholder: BCBA
-* Other stakeholders: Parents, children
+* BCBA, parent, child
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -100,8 +99,7 @@ This mobile app will help connect parents and patients with other helpful member
   * Connect them with other parents in same situation
   * Connect them with credible resources and organizations that offer help in the specific area they are looking for
 #### Stakeholders
-* Key stakeholder: Parents
-* Other stakeholders: BCBA, RBTs, Non-profit organizations, children
+* RBT, BCBA, parent, child, non-profit organization
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -132,3 +130,53 @@ Train social interaction through gaming and add Generative AI along with it
 ||Subject Matter Expert|BCBA|
 ||Tech Lead|Microsoft|
 ||Tech Lead|EY|
+
+
+## Planning Team Roles
+We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
+
+### Training Lead:
+Curate resources and organize sessions in order to equip participants with the knowledge needed to prepare for the hackathon.
+- Build technical training guide with learning geared towards each use case
+- Put together contextual training guide focused on autism -  current state, challenges, and gaps
+- Organize and distribute training schedule, including “ask me anything” and technical/contextual skilling sessions
+
+
+### Use Case Manager:
+Serve as the administrator of a use case. Ensure that both the tech leads and participants have what they need before and during the hackathon. 
+- Support planning efforts and help in aligning 2-3 tech leads to use case
+- Organize prep sessions leading up to the hackathon and ensure participants are connected with tech leads
+- Oversee activity and logistics during the two-day hackathon
+- Work with Tech Lead to capture summary/results
+
+
+### Use Case Tech Lead:
+Serve as technical point of contact for a use case, reviewing output from previous years and helping to unblock technical barriers against use case objectives. 
+- Provide recommendations and help to finalize use case 
+- Lead prep sessions for participants and be available for technical questions
+- Manage sponsored subscriptions and set up for participants
+- Lead and guide team(s) during the two-day hackathon
+- Work with Use Case Lead to capture summary/results
+
+
+### Marketing Lead:
+Organize marketing material for the Hackathon and generate interest internally and externally. 
+- Build a folder of references including: 
+  - Word and PowerPoint branded templates
+  - Brochure to be distributed to interested external organizations
+  - One-pager highlighting the event
+
+
+### Manager of Operations:
+Ensure that everything is running smoothly across technical planning details of the Hackathon. 
+- Partner with individuals building registration platform to oversee and manage registration, maintaining organized list
+- Point of contact to navigate any external access issues
+- Create Team that includes organize training content, use case details, and channels and assist with adding/managing members
+- Responsible for day-of operations, overseeing schedule and making sure everyone knows where they are supposed to be
+
+
+### Customer Engagement Lead:
+Serve as the point person for a given customer organization, ensuring they have what they need to prepare their developers for the hackathon. 
+- Identify customer “champion” lead who will be your primary liaison for the hackathon
+- Work with Marketing Lead and Training Leads to get content and resources to share with your customer
+- Keep your customer informed on a regular basis on registration timelines, training sessions, and other event logistics
