@@ -39,11 +39,11 @@ The session will comprise of:
 ||Tech Lead|EY|
 #### Time to Market: 12-18 months
 
-### Use case 2: Therapy session design co-pilot
-#### Objective: Assist the BCBA design a session specifically tailored for each child
-A BCBA (Board Certified Behavior Analyst) designs a session specifically for each child based on individualized treatment plan. It will center around the activitie the child enjoys and responds to. The objective is to have specific tasks for the child to complete with a certain level of fluency. This needs to take into account previous assessments, observations, and progress markers. 
+### Use case 2: Program development design co-pilot
+#### Objective: Assist the BCBA design a program specifically tailored for each child
+A BCBA (Board Certified Behavior Analyst) designs a program specifically for each child based on individualized treatment plan. It will center around the activitie the child enjoys and responds to. The objective is to have specific tasks for the child to complete with a certain level of fluency. This needs to take into account previous assessments, observations, and progress markers. 
 #### Scenario
-* The co-pilot will be able to ingest past session summaries in multi-modal form - videos, notes (digitized and undigitized), voide recordings, etc
+* The co-pilot will be able to ingest past program summaries in multi-modal form - videos, notes (digitized and undigitized), voide recordings, etc
 * Based on these, the co-pilot will place the child in a cohort of other children with similar assessments and markers
 * Based on past successes of children in the cohort, the co-pilot will suggest a recalibrated treatment and markers (if needed) to the BCBA
 * It can generate a progress summary at any given point of time
@@ -61,8 +61,9 @@ A BCBA (Board Certified Behavior Analyst) designs a session specifically for eac
 
 ### Use case 3: Client on-boarding co-pilot
 #### Objective: Help BCBA onboard a new patient quickly
-Typically, a BCBA gets limited amount of time to onboard a new patient and this can be a very cumbersom task. It includes several types of information to intake:
+Typically, a BCBA gets limited amount of time to onboard a new patient and this can be a very cumbersome task. It includes several types of information to intake:
 * Patient demographics, medical history, past services, etc.
+* Historical evaluations, IEPs, etc.
 * Insurance, funding, billing information, etc.
 * Previous and current treatments and their outcomes, progress reports, etc.
 * Consent forms, contracts, letter of engagement, etc.
@@ -70,7 +71,7 @@ Typically, a BCBA gets limited amount of time to onboard a new patient and this 
 * The co-pilot will be able to ingest historical documents
 * It will allow parents, BCBAs, and RBTs to actively collaborate across sessions - such as allowing parents to provide inputs of progress outside of sessions
 * It will allow tracking documents and provide a platform for storing consents, authorizations, etc.
-* It can generate a progress summary at any given point of time
+* It can generate a summarization of the new client for the BCBA to review
 #### Stakeholders
 * Key stakeholder: BCBA
 * Other stakeholders: Parents, children
