@@ -126,7 +126,7 @@ Train social interaction through gaming and add Generative AI along with it
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-||Use Case Lead||
+|Stephen Goldbaum|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
 ||Tech Lead|Microsoft|
 ||Tech Lead|EY|
