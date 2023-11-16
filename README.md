@@ -14,16 +14,16 @@ The date of the event is April 3rd and 4th. The event will be hybrid. The in-per
 
 ### Use case 1: Therapy session co-pilot
 #### Objective: Assist the RBT and BCBA during a session with the child
-RBT (Reisterd Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
+An RBT (Registerd Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
 #### Scenario
 The session will comprise of:
 * Multi-modal data capture
   * A smartphone app used by RBT - similar to what some RBTs have today
   * Video camera to record the session - this will focus on capturing facial expressions, body language, fluency of tasks, etc.
-  * Microphone - this will focus on cpaturing voice, tone, etc. to determine emotions
+  * Microphone - this will focus on capturing voice, tone, etc. to determine emotions
 * Real-time identification of pre-designed triggers
-  * This moule will specifically look for pre-designed triggers - emoitonal (frustration, accomplishment, etc.), or physical (completion of task, eye contact, etc.)
-  * The objective here to track progress along specific markers
+  * This module will specifically look for pre-designed triggers - emotional (frustration, accomplishment, etc.), or physical (completion of task, eye contact, etc.)
+  * The objective is to track progress along specific markers
 * Post-session summarization
   * Summarize and generate notes - free form based on observations across all modes
   * Summarize progress on specific markers
