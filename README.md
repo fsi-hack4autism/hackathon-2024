@@ -14,7 +14,7 @@ The date of the event is April 3rd and 4th. The event will be hybrid. The in-per
 
 ### Use case 1: Therapy session co-pilot
 #### Objective: Assist the RBT and BCBA during a session with the child
-An RBT (Registerd Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
+An RBT (Registered Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
 #### Scenario
 The session will comprise of:
 * Multi-modal data capture
