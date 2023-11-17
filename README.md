@@ -14,16 +14,16 @@ The date of the event is April 3rd and 4th. The event will be hybrid. The in-per
 
 ### Use case 1: Therapy session co-pilot
 #### Objective: Assist the RBT and BCBA during a session with the child
-RBT (Reisterd Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
+An RBT (Registered Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
 #### Scenario
 The session will comprise of:
 * Multi-modal data capture
   * A smartphone app used by RBT - similar to what some RBTs have today
   * Video camera to record the session - this will focus on capturing facial expressions, body language, fluency of tasks, etc.
-  * Microphone - this will focus on cpaturing voice, tone, etc. to determine emotions
+  * Microphone - this will focus on capturing voice, tone, etc. to determine emotions
 * Real-time identification of pre-designed triggers
-  * This moule will specifically look for pre-designed triggers - emoitonal (frustration, accomplishment, etc.), or physical (completion of task, eye contact, etc.)
-  * The objective here to track progress along specific markers
+  * This module will specifically look for pre-designed triggers - emotional (frustration, accomplishment, etc.), or physical (completion of task, eye contact, etc.)
+  * The objective is to track progress along specific markers
 * Post-session summarization
   * Summarize and generate notes - free form based on observations across all modes
   * Summarize progress on specific markers
@@ -122,11 +122,18 @@ Skill based training, adopting Generative AI along with it
 ||Tech Lead|EY|
 
 #### Use case 6: Metaverse
-Train social interaction through gaming and add Generative AI along with it
+#### Objective
+##### Practice handling a variety of social situations through gamification
+The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies augmented reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
+#### Scenario
+This augmented reality app will present users with a variety of interactive stories that include common social situations and personality types.  Users progress through the story by meeting a variety of characters with the goal of successfully completing the story.  Each story consists of the following components:
+* **Story board** – Configuration of the story space and VR coordinates.  This section is designed in conjunction with VR designers.
+* **Characters** – Configuration of the main characters and their general personality types.  The personality types are fed as prompts to generative AI to script the characters’ initial comments and subsequent responses to the user.
+* **Scoring** – Analysis of the user’s handling of the situation is performed by feeding the entire conversation to generative AI for analysis of the user’s reactions.  Advancement in the game is based on the score.
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-||Use Case Lead||
+|Stephen Goldbaum|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
 ||Tech Lead|Microsoft|
 ||Tech Lead|EY|
