@@ -112,7 +112,15 @@ This mobile app will help connect parents and patients with other helpful member
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
 
 #### Use case 5: Hololens
-Skill based training, adopting Generative AI along with it
+#### Objective: Teach basic job skills to people with autism using HoloLens
+This use case will focus on the use of HoloLens for teaching job skills to people with Autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with Autism is significant and the supports in the work environment are limited. The use case will use HoloLens AR to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
+Additonally, the use case will make use of Gen AI, to manage, evaluate, and provide feedback to the student on how well the skill is being performed. It can also be used to generated the slight variants and increasingly complex scenarios to practice and introduce gamification.
+This will also address the issue of scaability - moving away from 1:1 support to a 1:N as an a student becomes an adult.
+#### Scenario
+The skills th application will focus on can include one or more of the following:
+* **Stacking shelves in a store** – e.g., making sure all the labels are facing outwards, etc.
+* **Setting up a table in a restaurant** – making sure all the cutlery is there an arranged properly
+* **Setting up a catering tray** – e.g., making sure all items are placed properly
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -122,8 +130,7 @@ Skill based training, adopting Generative AI along with it
 ||Tech Lead|EY|
 
 #### Use case 6: Metaverse
-#### Objective
-##### Practice handling a variety of social situations through gamification
+#### Objective: Practice handling a variety of social situations through gamification
 The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies augmented reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
 #### Scenario
 This augmented reality app will present users with a variety of interactive stories that include common social situations and personality types.  Users progress through the story by meeting a variety of characters with the goal of successfully completing the story.  Each story consists of the following components:
