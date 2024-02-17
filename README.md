@@ -34,7 +34,7 @@ The session will comprise of:
 |------|------|---------|
 |Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|RBT/BCBA|
-||Tech Lead|Microsoft|
+|Rob Reese|Tech Lead|Microsoft|
 ||Tech Lead|EY|
 ##### Ideas
 [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
