@@ -50,6 +50,8 @@ A BCBA (Board Certified Behavior Analyst) designs a program specifically for eac
 * Based on these, the co-pilot will place the child in a cohort of other children with similar assessments and markers
 * Based on past successes of children in the cohort, the co-pilot will suggest a recalibrated treatment and markers (if needed) to the BCBA
 * It can generate a progress summary at any given point of time
+#### Code Repository
+https://github.com/fsi-hack4autism/program-development-copilot
 #### Stakeholders
 * RBT, BCBA, parent, child
 #### Leadership team
@@ -61,7 +63,7 @@ A BCBA (Board Certified Behavior Analyst) designs a program specifically for eac
 ||Tech Lead|EY|
 #### Time to Market: 12-18 months
 
-### Use case 3: Client on-boarding co-pilot
+### Use case 3: Patient on-boarding co-pilot
 #### Objective: Help BCBA onboard a new patient quickly
 Typically, a BCBA gets limited amount of time to onboard a new patient and this can be a very cumbersome task. It includes several types of information to intake:
 * Patient demographics, medical history, past services, etc.
@@ -73,7 +75,9 @@ Typically, a BCBA gets limited amount of time to onboard a new patient and this 
 * The co-pilot will be able to ingest historical documents
 * It will allow parents, BCBAs, and RBTs to actively collaborate across sessions - such as allowing parents to provide inputs of progress outside of sessions
 * It will allow tracking documents and provide a platform for storing consents, authorizations, etc.
-* It can generate a summarization of the new client for the BCBA to review
+* It can generate a summarization of the new patient for the BCBA to review
+#### Code Repository
+https://github.com/fsi-hack4autism/patient-onboarding-copilot
 #### Stakeholders
 * BCBA, parent, child
 #### Leadership team
@@ -100,6 +104,8 @@ This mobile app will help connect parents and patients with other helpful member
 * Connect
   * Connect them with other parents in same situation
   * Connect them with credible resources and organizations that offer help in the specific area they are looking for
+#### Code Repository
+https://github.com/fsi-hack4autism/friendly-neighborhood
 #### Stakeholders
 * RBT, BCBA, parent, child, non-profit organization
 #### Leadership team
@@ -113,9 +119,9 @@ This mobile app will help connect parents and patients with other helpful member
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
 
-#### Use case 5: Hololens
-#### Objective: Teach basic job skills to people with autism using HoloLens
-This use case will focus on the use of HoloLens for teaching job skills to people with Autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with Autism is significant and the supports in the work environment are limited. The use case will use HoloLens AR to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
+#### Use case 5: Job skill training using Augmented Reality
+#### Objective: Teach basic job skills to people with autism using Augmented Reality
+This use case will focus on the use of Augmented Reality for teaching job skills to people with Autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with Autism is significant and the supports in the work environment are limited. The use case will use Unity engine to build Augmented Reality solutions that can be used on platforms like HoloLens to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
 Additonally, the use case will make use of Gen AI, to manage, evaluate, and provide feedback to the student on how well the skill is being performed. It can also be used to generated the slight variants and increasingly complex scenarios to practice and introduce gamification.
 This will also address the issue of scaability - moving away from 1:1 support to a 1:N as an a student becomes an adult.
 #### Scenario
@@ -123,6 +129,8 @@ The skills th application will focus on can include one or more of the following
 * **Stacking shelves in a store** – e.g., making sure all the labels are facing outwards, etc.
 * **Setting up a table in a restaurant** – making sure all the cutlery is there an arranged properly
 * **Setting up a catering tray** – e.g., making sure all items are placed properly
+#### Code repository
+https://github.com/fsi-hack4autism/augmented-reality-skills-training
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
@@ -133,9 +141,9 @@ The skills th application will focus on can include one or more of the following
 
 #### Use case 6: Metaverse
 #### Objective: Practice handling a variety of social situations through gamification
-The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies augmented reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
+The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies virtual reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
 #### Scenario
-This augmented reality app will present users with a variety of interactive stories that include common social situations and personality types.  Users progress through the story by meeting a variety of characters with the goal of successfully completing the story.  Each story consists of the following components:
+This virtual reality app will present users with a variety of interactive stories that include common social situations and personality types.  Users progress through the story by meeting a variety of characters with the goal of successfully completing the story.  Each story consists of the following components:
 * **Story board** – Configuration of the story space and VR coordinates.  This section is designed in conjunction with VR designers.
 * **Characters** – Configuration of the main characters and their general personality types.  The personality types are fed as prompts to generative AI to script the characters’ initial comments and subsequent responses to the user.
 * **Scoring** – Analysis of the user’s handling of the situation is performed by feeding the entire conversation to generative AI for analysis of the user’s reactions.  Advancement in the game is based on the score.
