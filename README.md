@@ -27,6 +27,8 @@ The session will comprise of:
 * Post-session summarization
   * Summarize and generate notes - free form based on observations across all modes
   * Summarize progress on specific markers
+#### Code repository
+https://github.com/fsi-hack4autism/therapy-session-copilot
 #### Stakeholders
 * RBT, BCBA, parent, child
 #### Leadership team
@@ -137,6 +139,8 @@ This augmented reality app will present users with a variety of interactive stor
 * **Story board** – Configuration of the story space and VR coordinates.  This section is designed in conjunction with VR designers.
 * **Characters** – Configuration of the main characters and their general personality types.  The personality types are fed as prompts to generative AI to script the characters’ initial comments and subsequent responses to the user.
 * **Scoring** – Analysis of the user’s handling of the situation is performed by feeding the entire conversation to generative AI for analysis of the user’s reactions.  Advancement in the game is based on the score.
+#### Code repository
+https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
