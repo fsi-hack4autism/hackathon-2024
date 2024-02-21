@@ -59,7 +59,7 @@ https://github.com/fsi-hack4autism/program-development-copilot
 |------|------|---------|
 |Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
-||Tech Lead|Microsoft|
+| Devanshi Thacker |Tech Lead|Microsoft|
 ||Tech Lead|EY|
 #### Time to Market: 12-18 months
 
@@ -83,9 +83,9 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-|Leo Junquera|Use Case Lead|EY|
+| Rishi Bhatnagar |Use Case Lead|EY|
 |Leo Junquera|Subject Matter Expert|Parent|
-||Tech Lead|Microsoft|
+| Alexis Joseph |Tech Lead|Microsoft|
 ||Tech Lead|EY|
 #### Time to Market: 12-18 months
 
