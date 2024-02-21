@@ -136,10 +136,10 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 |------|------|---------|
 ||Use Case Lead||
 ||Subject Matter Expert|BCBA|
-| Caroline Matthews |Tech Lead|Microsoft|
+| |Tech Lead|Microsoft|
 ||Tech Lead|EY|
 
-#### Use case 6: Metaverse
+#### Use case 6: Metaverse using Virtual Reality
 #### Objective: Practice handling a variety of social situations through gamification
 The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies virtual reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
 #### Scenario
@@ -154,7 +154,7 @@ https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 |------|------|---------|
 |Stephen Goldbaum|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
-||Tech Lead|Microsoft|
+| Caroline Matthews |Tech Lead|Microsoft|
 ||Tech Lead|EY|
 
 
