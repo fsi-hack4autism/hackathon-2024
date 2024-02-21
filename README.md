@@ -136,7 +136,7 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 |------|------|---------|
 ||Use Case Lead||
 ||Subject Matter Expert|BCBA|
-||Tech Lead|Microsoft|
+| Caroline Matthews |Tech Lead|Microsoft|
 ||Tech Lead|EY|
 
 #### Use case 6: Metaverse
