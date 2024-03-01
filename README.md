@@ -37,7 +37,7 @@ https://github.com/fsi-hack4autism/therapy-session-copilot
 |Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|RBT/BCBA|
 |Rob Reese|Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 ##### Ideas
 [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
 #### Time to Market: 12-18 months
@@ -60,7 +60,7 @@ https://github.com/fsi-hack4autism/program-development-copilot
 |Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
 | Devanshi Thacker |Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
 ### Use case 3: Patient on-boarding co-pilot
@@ -86,7 +86,7 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 | Rishi Bhatnagar |Use Case Lead|EY|
 |Leo Junquera|Subject Matter Expert|Parent|
 | Alexis Joseph |Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
 ### Use case 4: Friendly neighborhood Mobile Networking App
@@ -114,7 +114,7 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 |Dhruv Bhatnagar|Use Case Lead|Student|
 |Crystal|Subject Matter Expert||
 ||Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
@@ -137,7 +137,7 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 ||Use Case Lead||
 ||Subject Matter Expert|BCBA|
 | |Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 
 #### Use case 6: Metaverse using Virtual Reality
 #### Objective: Practice handling a variety of social situations through gamification
@@ -155,7 +155,7 @@ https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 |Stephen Goldbaum|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
 | Caroline Matthews |Tech Lead|Microsoft|
-||Tech Lead|EY|
+||Tech Lead|Accenture|
 
 
 ## Planning Team Roles
