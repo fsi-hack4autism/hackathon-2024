@@ -113,13 +113,13 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 |------|------|---------|
 |Dhruv Bhatnagar|Use Case Lead|Student|
 |Crystal|Subject Matter Expert||
-||Tech Lead|Microsoft|
+|Mike Richter|Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
 
-#### Use case 5: Job skill training using Augmented Reality
+### Use case 5: Job skill training using Augmented Reality
 #### Objective: Teach basic job skills to people with autism using Augmented Reality
 This use case will focus on the use of Augmented Reality for teaching job skills to people with Autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with Autism is significant and the supports in the work environment are limited. The use case will use Unity engine to build Augmented Reality solutions that can be used on platforms like HoloLens to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
 Additonally, the use case will make use of Gen AI, to manage, evaluate, and provide feedback to the student on how well the skill is being performed. It can also be used to generated the slight variants and increasingly complex scenarios to practice and introduce gamification.
@@ -134,12 +134,12 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-||Use Case Lead||
+|Barry Cordie |Use Case Lead||
 ||Subject Matter Expert|BCBA|
 | |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
 
-#### Use case 6: Metaverse using Virtual Reality
+### Use Case 6: Metaverse using Virtual Reality
 #### Objective: Practice handling a variety of social situations through gamification
 The world is filled with challenging social situations.  People facing new situations often struggle to find appropriate responses.  For those on the autism spectrum, this is exacerbated by difficulty reading standard social cues.  Having a safe and controlled environment to practice responding to common social situations, personality types, and social cues would allow users to face new situations with confidence.  Since creating such an environment would be difficult to scale, this app applies virtual reality to provide a unique social practice environment in an application.  Furthermore, since those with autism are often drawn to repetition, the app utilizes generative AI to ensure adequate variety across sessions.  Generative AI will also be used to evaluate the user’s performance.
 #### Scenario
